@@ -19,3 +19,7 @@ This task consists assembler, which translates handwritten code into the byte-co
 - _STOP_ -- stops the program
 - _READ destination_ -- reads the value entered into a terminal
 - _PRINT source_ -- prints the value of a register with the address _source_
+
+
+### Examples
+Examples are located in the `examples` folder.
