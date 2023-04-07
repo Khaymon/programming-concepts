@@ -1,4 +1,4 @@
-## Assembler
+## Assembler and virtual machine
 
 This task consists assembler, which translates handwritten code into the byte-code, and virtual machine translator of the byte-code
 
