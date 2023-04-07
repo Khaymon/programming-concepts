@@ -1,6 +1,6 @@
 ## Assembler and virtual machine
 
-This task consists assembler, which translates handwritten code into the byte-code, and virtual machine translator of the byte-code
+This task consists assembler, which translates handwritten code into the byte-code, and virtual machine translator of the byte-code. Virtual machine consists __9 registers__ and __17 instructions__.
 
 ### Instructions supported
 - _FBEG function_number_ -- defines a function with numerical number _function_number_ which must be positive integer
