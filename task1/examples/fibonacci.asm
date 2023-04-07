@@ -17,10 +17,10 @@ ADD r6 r5
 JUMP finish
 ret1: ASSIGN r6 1
 finish: FEND
-PUTSTR Эта программа возвращает n-й элемент последовательности Фибоначчи!
-PUTSTR Введите число n:
+PUTSTR This program returns n-th Fibonacci number
+PUTSTR Enter the n:
 READ r1
 CALL 42
-PUTSTR Результат:
+PUTSTR Result:
 PRINT r6
 STOP
